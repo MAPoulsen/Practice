@@ -19,8 +19,21 @@ header{
  .main-container-sidebar{
  border: 1px solid;
  display: inline-block;
- width: 29%;
  float: right;
+ }
+ 
+ .main-container-side-bar.left{
+     width:12%
+ }
+ 
+ 
+ .main-container-sidebar.right{
+     width:16%
+ }
+ 
+ .right{
+     float:right
+ }
  }
  
  footer{
