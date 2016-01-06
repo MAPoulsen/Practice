@@ -1,3 +1,5 @@
+
+html{font-family: sans-serif}
 header{
  height: 80px;
  background-color: blue;
@@ -9,6 +11,10 @@ header{
  .main-content-container{
  min-height: 800px;}
 
+ .article-title{
+     font-size:20
+     border:
+ }
  
  .main-container-article{
      width: 70%;
@@ -48,4 +54,8 @@ header{
  border: 5px solid #000;
  } 
 
-    
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
